@@ -1,7 +1,7 @@
 import java.util.Scanner;
-/*
-Miguel Bayona
-*/
+
+// Esto es un comentario de ejemplo para probar a tener un repositorio colaborativo.
+
 public class Main {
     static Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
