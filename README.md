@@ -50,8 +50,6 @@ Las imágenes y este mismo archiuvo con su versión PDF deberán estar en GitHub
 
    ><img src="https://i.ibb.co/dKHHMyg/imagen-2023-11-28-194051668.png"> 
 
-   ><img src="https://i.ibb.co/tBjprcZ/imagen-2023-11-28-194335599.png">
-
 9. A1:Investigad sobre la herramienta "CodeWithMe". 
     > CodeWithMe es un plugin para colaboración en código en tiempo real. Facilita la codificación en equipo al permitir compartir el entorno de desarrollo de forma remota.
 
