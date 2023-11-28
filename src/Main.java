@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 // Esto es un comentario de ejemplo para probar a tener un repositorio colaborativo.
-// Codigo modificado.
 
 public class Main {
     static Scanner sc = new Scanner(System.in);
