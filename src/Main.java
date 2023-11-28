@@ -149,8 +149,12 @@ public class Main {
         }
     }
     public static boolean esMayorEdad(int a) {
-        return a >= 18;// Codigo modificado.
-    }
+        boolean age = true;
+        if (a <= 18) {
+            age = false;
+        }
+        return age;
+    }// Codigo Modificado
 
     //ejercicio3
     public static void ejercicio3(){
