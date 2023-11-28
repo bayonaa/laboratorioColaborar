@@ -48,12 +48,15 @@ Las imágenes y este mismo archiuvo con su versión PDF deberán estar en GitHub
 8. A1 y A2 : Subid los cambios y resolved el conflicto.
    ><img src="https://i.ibb.co/Y36rZ99/Imagen2.png">
 
-   ><img src="https://i.ibb.co/mGQNf7B/Imagen3.png"> 
+   ><img src="https://i.ibb.co/dKHHMyg/imagen-2023-11-28-194051668.png"> 
 
-   ><img src="https://i.ibb.co/qkQNYfr/Imagen4.png">
+   ><img src="https://i.ibb.co/fxRtsG7/imagen-2023-11-28-193952381.png">
 
-9. A1:Investigad sobre la herramienta "CodeWithMe".  
+9. A1:Investigad sobre la herramienta "CodeWithMe". 
+    > CodeWithMe es un plugin para colaboración en código en tiempo real. Facilita la codificación en equipo al permitir compartir el entorno de desarrollo de forma remota.
+
 10. A2: Investigad sobre la herramienta "GitHubCopilot".
+    > GitHub Copilot es un plugin que acelera la escritura de código sugiriendo y completando líneas automáticamente. Hace que programar sea más rápido y fácil.
 
 Vídeos de ayuda:  
 Subir proyecto desde GIT: https://www.youtube.com/watch?v=6WtA2dUDvPY  
