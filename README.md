@@ -42,7 +42,8 @@ Las imágenes y este mismo archiuvo con su versión PDF deberán estar en GitHub
     > <img src="https://i.ibb.co/mJSDJVw/imagen-2023-11-28-132923039.png">
     > <br> Hago push de las modificaciones realizadas.
 6. A1: Descarga el programa actual y modifica una parte.
-7. A2: Modifica la misma parte que A1 de manera que surja un coinflicto
+7. A2: Modifica la misma parte que A1 de manera que surja un coinflicto.
+    > <img src="https://i.ibb.co/FXkYH4j/imagen-2023-11-28-191215208.png">
 8. A1 y A2 : Subid los cambios y resolved el conflicto.
 9. A1:Investigad sobre la herramienta "CodeWithMe".  
 10. A2: Investigad sobre la herramienta "GitHubCopilot".
