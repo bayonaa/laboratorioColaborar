@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 // Esto es un comentario de ejemplo para probar a tener un repositorio colaborativo.
+// Codigo modificado.
 
 public class Main {
     static Scanner sc = new Scanner(System.in);
@@ -149,12 +150,8 @@ public class Main {
         }
     }
     public static boolean esMayorEdad(int a) {
-        boolean edad = false;
-        if (a >= 18) {
-            edad = true;
-        }
-        return edad;
-    }//a >= 18
+        return a >= 18;// Codigo modificado.
+    }
 
     //ejercicio3
     public static void ejercicio3(){
