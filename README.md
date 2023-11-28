@@ -43,7 +43,7 @@ Las imágenes y este mismo archiuvo con su versión PDF deberán estar en GitHub
     > <br> Hago push de las modificaciones realizadas.
 6. A1: Descarga el programa actual y modifica una parte.
    ><img src="https://i.ibb.co/M1KpWRX/Imagen1.png">
-7. A2: Modifica la misma parte que A1 de manera que surja un coinflicto
+7. A2: Modifica la misma parte que A1 de manera que surja un coinflicto.
    > <img src="https://i.ibb.co/FXkYH4j/imagen-2023-11-28-191215208.png">
 8. A1 y A2 : Subid los cambios y resolved el conflicto.
    ><img src="https://i.ibb.co/Y36rZ99/Imagen2.png">
